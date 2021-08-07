@@ -1,0 +1,7 @@
+{
+  "files.insertFinalNewline": true,
+  "editor.formatOnSave": true,
+  "markdown.extension.print.onFileSave": true,
+  "eslint.codeActionsOnSave.mode": "problems",
+  "editor.codeActionsOnSave": null
+}
